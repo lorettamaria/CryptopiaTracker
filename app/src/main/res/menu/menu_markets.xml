@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.steve.learn.activities.MainActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="@string/action_search"
+        android:orderInCategory="0"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="collapseActionView|ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:title="@string/label_settings"
+        app:showAsAction="collapseActionView|never" />
+
+    <item
+        android:id="@+id/action_donate"
+        android:icon="@drawable/ic_donate_white_24dp"
+        android:title="@string/action_donate"
+        app:showAsAction="collapseActionView|never" />
+
+</menu>

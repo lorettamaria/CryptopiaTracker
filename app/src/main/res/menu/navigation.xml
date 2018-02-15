@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_btc"
+        android:icon="@drawable/ic_btc_black_24dp"
+        android:checked="true"
+        android:title="@string/title_exchange_btc" />
+
+    <item
+        android:id="@+id/navigation_usdt"
+        android:icon="@drawable/ic_usdt_black_24dp"
+        android:title="@string/title_exchange_usdt" />
+
+    <item
+        android:id="@+id/navigation_nzdt"
+        android:icon="@drawable/ic_monetization_on_black_24dp"
+        android:title="@string/title_exchange_nzdt" />
+
+    <item
+        android:id="@+id/navigation_ltc"
+        android:icon="@drawable/ic_ltc_black_24dp"
+        android:title="@string/title_exchange_ltc" />
+
+    <item
+        android:id="@+id/navigation_doge"
+        android:icon="@drawable/ic_doge_black_24dp"
+        android:title="@string/title_exchange_doge" />
+
+</menu>
