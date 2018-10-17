@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CryptopiaTracker</string>
+
+    <string name="title_exchange_btc">BTC</string>
+    <string name="title_exchange_usdt">USDT</string>
+    <string name="title_exchange_nzdt">NZDT</string>
+    <string name="title_exchange_ltc">LTC</string>
+    <string name="title_exchange_doge">DOGE</string>
+
+    <string name="action_retry">Erneut versuchen</string>
+    <string name="action_search">Suchen</string>
+    <string name="action_donate">Spenden</string>
+
+    <string name="label_settings">Einstellungen</string>
+</resources>
