@@ -5,6 +5,6 @@ An Android App that helps you keep track of the recent prices on the Cryptopia e
 
 ## State of development
 
-Currently the app is at an very early point in development. The necessary basis is there, but all the functionallity, like search, filter, details, orderbooks and so on have to be build on top of the basis now. 
+Currently the app is at an very early point in development. The necessary basis is there, but all the functionallity, for example search, filter, details, orderbooks and others have to be build on top of the basis now.
 
-If you are interested in contributing just open an issue and let me know on what you would like to work on :)
+If you are interested in contributing just open an issue and let me know on what you would like to work on :-)
